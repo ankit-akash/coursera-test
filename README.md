@@ -1,2 +1,2 @@
 # coursera-test
-coursera test repository
+Coursera course in *HTML, CSS, and Javascript for Web Developers* by John Hopkins University.
